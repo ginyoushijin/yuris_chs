@@ -1,0 +1,4 @@
+LIBRARY "yuris_chs"
+
+EXPORTS
+ illusion @1
